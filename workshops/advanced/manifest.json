@@ -1,0 +1,49 @@
+{
+  "workshoptitle": "MySQL Database Service & Heatwave Lakehouse Workshop",
+    "help": "livelabs-help-oci_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introducción",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Crea un DBSystem HeatWave",
+            "filename": "../../create-dbs/create-dbs.md"
+        },
+
+        {
+          "title": "Lab 2: Crea una conexión con HeatWave utilizando OCI Cloud Shell y MySQL Shell",
+          "filename": "../../connect-dbs-ocishell-mysqlshell/connect-dbs-ocishell-mysqlshell.md"
+        },
+
+        {
+            "title": "Lab 3: Carga el cluster de HeatWave",
+            "filename": "../../load-heatwave/load-heatwave.md"
+        },
+        
+        {
+            "title": "Lab 4: Ejecuta queries ",
+            "filename": "../../run-queries/run-queries.md"
+        },
+        {
+          "title": "Lab 5: Configura un DB System HeatWave",
+          "filename": "../../config-dbs/config-dbs.md"
+        },
+        {
+          "title": "Lab 6: Respaldando un DB System HeatWave",
+          "filename": "../../backup-dbs/backup-dbs.md"
+        },
+        {
+          "title": "Lab 8: Utilizando HeatWave Lakehouse",
+          "filename": "../../do-lakehouse/do-lakehouse.md"  
+        },
+        {
+          "title": "Lab 9: Construye una aplicación LAMP con HeatWave",
+          "filename": "../../create-lamp-advanced/create-lamp-advanced.md"
+        },  
+        {
+          "title": "Lab 10:Construye un dashboard en tiempo real con HeatWave y Oracle Analytics Cloud",
+          "filename": "../../do-oac-advanced/do-oac-advanced.md"
+        }
+    ]
+}
